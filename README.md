@@ -1,3 +1,17 @@
+# Dependencies
+    "axios": "^0.21.1",
+    "chart.js": "^3.5.0",
+    "query-string": "^7.0.1",
+    "react": "^17.0.2",
+    "react-chartjs-2": "^3.0.4",
+    "react-dom": "^17.0.2",
+    "react-redux": "^7.2.4",
+    "react-scripts": "4.0.3",
+    "redux": "^4.1.1",
+    "redux-saga": "^1.1.3",
+    "redux-thunk": "^2.3.0",
+    "web-vitals": "^1.1.2"
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
